@@ -8,4 +8,4 @@ var Examples = React.createClass ({
     }
 });
 
-module.exports = 'Examples'
+module.exports = Examples;
